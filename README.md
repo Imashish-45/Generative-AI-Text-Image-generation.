@@ -2,7 +2,8 @@
 Image captioning and Image Generation Based project.
 
 
-<img width="922" alt="image" src="https://github.com/Imashish-45/Generative-AI-Text-Image-generation./assets/123284935/c5f2e60b-2c95-4f8f-9101-9aef9ce30b0b">
+<img width="906" alt="image" src="https://github.com/Imashish-45/Generative-AI-Text-Image-generation./assets/123284935/11c6f659-3467-4d5e-b73c-9a1715053dd9">
+
 
 **Image Captioning**:
 
